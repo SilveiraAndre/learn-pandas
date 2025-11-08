@@ -2,6 +2,15 @@
 
 Este repositório foi criado para **aprender e praticar os principais conceitos da biblioteca [pandas](https://pandas.pydata.org/)** em Python — desde a leitura de arquivos CSV até a manipulação, filtragem, agrupamento e exportação de dados.
 
+As operações incluem:
+
+- Leitura de arquivos CSV;
+- Manipulação de colunas e índices;
+- Criação de novas colunas com cálculos;
+- Agrupamentos e tabelas dinâmicas;
+- Filtragem de dados;
+- Exportação de resultados modificados.
+
 > 🇧🇷 Comentários no código estão escritos em **português e inglês**, facilitando o entendimento técnico e o aprendizado bilíngue.
 
 ---
@@ -9,21 +18,22 @@ Este repositório foi criado para **aprender e praticar os principais conceitos 
 ## 📂 Estrutura do Projeto
 
 learn-pandas/
-├── .venv/ # Ambiente virtual gerenciado pelo Poetry
+├── .venv/                        # Ambiente virtual gerenciado pelo Poetry
 ├── data/
-│ ├── origin/
-│ │ └── dados.csv # Arquivo de origem (dados de exemplo)
-│ └── to_export/
-│ └── dados_modificado.csv # Arquivo gerado após as transformações
-├── learn_pandas/ 
-│ ├── __init__.py/
-│ ├── index.py/
-├── tests/ 
-│ ├── __init__.py/
-├── poetry.lock # Controle de dependências
-├── pyproject.toml # Configuração do Poetry
-├── README.md # Configuração do Poetry
-└── main.py # Script principal com exemplos e explicações
+│   ├── origin/
+│   │   └── dados.csv             # Arquivo de origem (dados de exemplo)
+│   └── to_export/
+│       └── dados_modificado.csv  # Arquivo gerado após as transformações
+├── learn_pandas/
+│   ├── __init__.py
+│   └── index.py
+├── tests/
+│   └── __init__.py
+├── poetry.lock                   # Controle de dependências
+├── pyproject.toml                # Configuração do Poetry
+├── README.md                     # Documentação do projeto
+└── main.py                       # Script principal com exemplos e explicações
+
 
 ---
 
