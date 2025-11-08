@@ -17,6 +17,7 @@ As operações incluem:
 
 ## 📂 Estrutura do Projeto
 
+```
 learn-pandas/
 ├── .venv/                        # Ambiente virtual gerenciado pelo Poetry
 ├── data/
@@ -33,7 +34,7 @@ learn-pandas/
 ├── pyproject.toml                # Configuração do Poetry
 ├── README.md                     # Documentação do projeto
 └── main.py                       # Script principal com exemplos e explicações
-
+```
 
 ---
 
