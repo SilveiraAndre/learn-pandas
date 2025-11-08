@@ -1,0 +1,34 @@
+data_venda;produto;vendedor;valor_unitario;quantidade
+2020-10-19;Smartphone;José Maria;1500;1
+2020-11-16;Smartphone;José Maria;1500;2
+2020-02-20;Tablet;Jorge Mateus;1000;2
+2020-06-03;Tablet;Jorge Mateus;1000;3
+2020-02-01;Televisão;Jorge Mateus;3500;3
+2020-05-30;Máquina Lavar Roupa;Maria das Graças;2400;1
+2020-10-29;Notebook;Maria das Graças;3000;3
+2020-11-24;Notebook;Maria das Graças;3000;2
+2020-05-14;Batedeira;Maria das Graças;200;1
+2020-07-05;Cafeteira;Maria das Graças;240;1
+2020-03-03;Fritadeira elétrica;Maria das Graças;250;1
+2020-03-06;Fritadeira elétrica;Maria das Graças;250;2
+2020-08-07;Liquidificador;José Maria;80;1
+2020-10-06;Liquidificador;José Maria;80;3
+2020-05-11;Processador de alimentos;Maria das Graças;180;1
+2020-12-21;Processador de alimentos;Jorge Mateus;180;2
+2020-02-28;Fogão;José Maria;600;3
+2020-02-19;Fogão;Maria das Graças;600;3
+2020-08-02;Fogão;Jorge Mateus;600;2
+2020-04-26;Geladeira;Maria das Graças;1200;1
+2020-06-11;Geladeira;Maria das Graças;1200;3
+2020-11-16;Geladeira;Maria das Graças;1200;3
+2020-01-02;Guarda Roupa;José Maria;1500;2
+2020-03-24;Guarda Roupa;José Maria;1500;3
+2020-08-17;Guarda Roupa;José Maria;1500;2
+2020-10-11;Guarda Roupa;José Maria;1500;1
+2020-01-24;Guarda Roupa;Jorge Mateus;1500;1
+2020-09-16;Cama Box;Jorge Mateus;2800;1
+2020-12-22;Colchão;José Maria;310;2
+2020-04-13;Colchão;Jorge Mateus;310;3
+2020-09-10;Colchão;Jorge Mateus;310;3
+2020-08-05;Impressora;José Maria;600;3
+2020-01-27;Impressora;Jorge Mateus;600;3
